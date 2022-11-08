@@ -160,7 +160,7 @@ header {
     }
 
 } 
-@media screen and ( max-width: 370px) {
+@media screen and ( max-width: 390px) {
   .primeira-section {
       height: 70%;
   }
